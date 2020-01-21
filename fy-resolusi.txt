@@ -1,7 +1,8 @@
 Everything start with a goal planning..
 
 Learn Javascript DOM - deeper understanding
-Learn Javascript Lanjutan
+Learn Javascript Lanjutan - deeper understanding
 Learn React.js
 Learn React Native
 Learn Laravel
+Learn JAVA - renewing memory
